@@ -1,0 +1,100 @@
+/* This stylesheet is used to style the public view of the plugin. */
+
+#pixl-sticky-header ul{
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+#pixl-sticky-header {
+	 box-shadow: -1px 1px 15px #999;
+	margin-top: -200px;
+	padding: 0px 10px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 99998;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	z-index: 999999999 !important;
+	  opacity: .8;
+}
+.admin-bar #pixl-sticky-header {
+	  opacity: .8;
+	  z-index: 999999999 !important;
+	top: 32px;
+	  box-shadow: -1px 1px 15px #999;
+}
+#pixl-sticky-header:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+#pixl-sticky-header-title {
+	float: left;
+	font-size: 22px;
+	line-height: 30px;
+	margin: 0px !important;
+	padding-top: 0px;
+}
+#pixl-sticky-header-menu{
+	float: right !important;
+	margin-top: 26px !important;
+}
+#pixl-sticky-header-title img {
+    margin: 3px 0px 9px;
+    width: 75px;
+}
+#pixl-sticky-header {
+  padding: 0px 10px !important;
+  z-index: 999999999 !important;
+}
+#pixl-sticky-header ul > li > a {
+	font-family: 'AvenirLTStd-Roman';
+    color: #FFF;
+    font-size: 12px;
+    padding: 13px 5px !important;
+    text-transform: uppercase;
+}
+
+#pixl-sticky-header ul li a:hover {
+  color: #469750;
+}
+#pixl-sticky-header ul > li.current-menu-item > a {
+  color: #469750;
+  border-bottom: 3px solid #469750 !important;
+}
+
+#pixl-sticky-header-menu > li {
+  display: inline-block;
+  margin: 0 0 0 0px !important;
+  font-size: 12px;
+}
+#pixl-sticky-header-menu  > li.menu-item-has-children { position: relative !important;}
+#pixl-sticky-header-menu  > li.menu-item-has-children > ul.sub-menu{ display: none; }
+#pixl-sticky-header-menu  > li.menu-item-has-children:hover > ul.sub-menu li:hover { background: #469750 !important; }
+#pixl-sticky-header-menu  > li.menu-item-has-children:hover > ul.sub-menu{ padding: 7px 0px; position: absolute !important; top: 31px !important; color: #fff; background: #469750 !important; display: block; text-align: left; min-width: 150px !important;}
+#pixl-sticky-header-menu  > li.menu-item-has-children > ul.sub-menu li > a{ color:#fff !important; background: none !important; text-align: left; padding: 38px 11px !important; font-size: 12px; }
+#pixl-sticky-header-menu  > li.menu-item-has-children > ul.sub-menu li > a:hover{ text-decoration: underline;} 
+
+@-webkit-keyframes navfixed {
+  from {top: -50px;}
+    to {top: 0px;}
+}
+@-moz-keyframes navfixed {
+  from {top: -50px;}
+    to {top: 0px;}
+}
+@-o-keyframes navfixed {
+  from {top: -50px;}
+    to {top: 0px;}
+}
+@keyframes navfixed {
+  from {top: -50px;}
+    to {top: 0px;}
+}
+
+/* sticy menu*/
+
+#pixl-sticky-header{
+
+}
