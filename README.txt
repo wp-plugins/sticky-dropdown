@@ -4,7 +4,7 @@ Donate link: http://pixelsolution4it.com/
 Tags: sticky header, header, sticky menu, fixed header,Dropdown menu
 Requires at least: 3.5
 Tested up to: 3.8.1
-Stable tag: 1.4
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Sticky Header by pixelsolution4it allows you to add sticky header to any WordPre
 == Description ==
 ### Wordpress sticky All Level0, Level1, Level2, Dropdown 
 
-[sticky Dropdown Menu Demo Link](http://www.itsallaboutme.today/) 
+[sticky Dropdown Menu Demo Link]<a href="http://www.itsallaboutme.today" target="_blank">http://www.itsallaboutme.today</a>
 
 The Sticky Header WordPress plugin makes your header visible at all times. It's a great feature that allows people to browse faster and consume more of your content.
 
