@@ -1,6 +1,6 @@
 === sticky-dropdown  ===
 Contributors: slobodanmanic, nikolicdragan,engrmostafijur
-Donate link: http://pixelsolution4it.com//
+Donate link: http://pixelsolution4it.com/
 Tags: sticky header, header, sticky menu, fixed header,Dropdown menu
 Requires at least: 3.5
 Tested up to: 3.8.1
