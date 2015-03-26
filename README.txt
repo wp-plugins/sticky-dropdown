@@ -50,7 +50,6 @@ It's located in Appearance > Customize > Sticky Header by pixelsolution4it.
 
 1. Sticky header in action
 2. Sticky Header Customizer options
-3. Sticky Header Customizer Settings
 
 == Changelog ==
 
