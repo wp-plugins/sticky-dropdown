@@ -13,6 +13,7 @@ Sticky Header by pixelsolution4it allows you to add sticky header to any WordPre
 == Description ==
 ### Wordpress sticky All Level0, Level1, Level2, Dropdown 
 
+[sticky Dropdown Menu Helpfull link] http://pixelsolution4it.com
 [sticky Dropdown Menu Demo Link] http://www.itsallaboutme.today
 
 The Sticky Header WordPress plugin makes your header visible at all times. It's a great feature that allows people to browse faster and consume more of your content.
