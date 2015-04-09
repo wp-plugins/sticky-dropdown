@@ -3,10 +3,10 @@
  * Handles Customizer options.
  *
  * @package   Sticky_Dropdown
- * @author    engrmostafijur <engr.mostafijur@gmail.com>
+ * @author    ThematoSoup <contact@thematosoup.com>
  * @license   GPL-2.0+
- * @link      http://pixelsolution4it.com
- * @copyright 2014 engrmostafijur
+ * @link      http://thematosoup.com
+ * @copyright 2013 ThematoSoup
  */
 
 add_action( 'customize_register', 'pixl_Sticky_Dropdown_customize_register' );

@@ -3,17 +3,17 @@
  * Sticky Header
  *
  * @package   Sticky_Dropdown
- * @author    pixelsolution4it <contact@pixelsolution4it.com>
+ * @author    ThematoSoup <contact@thematosoup.com>
  * @license   GPL-2.0+
- * @link      http://pixelsolution4it.com
- * @copyright 2014 pixelsolution4it
+ * @link      http://thematosoup.com
+ * @copyright 2013 ThematoSoup
  */
 
 /**
  * Plugin class.
  *
- * @package Sticky_Dropdown
- * @author  pixelsolution4it <contact@pixelsolution4it.com>
+ * @package Sticky_Header
+ * @author  ThematoSoup <contact@thematosoup.com>
  */
 class Sticky_Dropdown {
 
