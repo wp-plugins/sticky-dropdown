@@ -3,10 +3,10 @@
  * Fired when the plugin is uninstalled.
  *
  * @package   Sticky_Dropdown
- * @author    engrmostafijur <engr.mostafijur@gmail.com>
+ * @author    ThematoSoup <contact@thematosoup.com>
  * @license   GPL-2.0+
- * @link      http://pixelsolution4it.com
- * @copyright 2014 engrmostafijur
+ * @link      http://thematosoup.com
+ * @copyright 2013 ThematoSoup
  */
 
 // If uninstall, not called from WordPress, then exit

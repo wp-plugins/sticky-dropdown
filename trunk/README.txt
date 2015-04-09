@@ -4,47 +4,56 @@ Donate link: http://pixelsolution4it.com/
 Tags: sticky header, header, sticky menu, fixed header,Dropdown menu
 Requires at least: 3.5
 Tested up to: 3.8.1
-Stable tag: 1.4
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Sticky Header by pixelsolution4it allows you to add sticky header to any WordPress theme.
+Sticky Header Dropdown Menu by pixelsolution4it allows you to add sticky header to any WordPress theme.
 
 == Description ==
 ### Wordpress sticky All Level0, Level1, Level2, Dropdown 
 
-[sticky Dropdown Menu Demo Link](http://www.itsallaboutme.today/) 
+[sticky Dropdown Menu Helpfull link] http://pixelsolution4it.com
+[sticky Dropdown Menu Demo Link](http://www.itsallaboutme.today)
 
-The Sticky Header WordPress plugin makes your header visible at all times. It's a great feature that allows people to browse faster and consume more of your content.
+The Sticky Header Dropdown Menu plugin allows people visible header at all times. The setting of plugin is  more simple to Everybody . 
 
-Sticky Header by pixelsolution4it is part of your brand building, improves user experience by saving people time and makes your WordPress website more aesthetically pleasing.
+Sticky Header Dropdown menu by pixelsolution4it is the part of pleasure way to improve the site .
+Logo and sticky Menu is the key point of web site . Your website to successful, it should provide a seamless user experience for visitors.  It will visible all times.
 
-Your branding (logo) is something you want visitors to subconsciously keep in mind while browsing your website and navigation is one of the most important aspects of every website. Make them visible at all times.
+* **Effective Navigation** - Good navigation is one of the most important point of website usability. It tends to work best and appear consistent on all browsers and platforms.
+* **Accessible to All users** - It is easy to setup  and customize. 
 
 = Settings =
 
-Sticky Header by pixelsolution4it has just few options, which you can find in your Theme Customizer. This makes it *incredibly easy to configure and use*.
+Sticky Header Dropdown Menu by pixelsolution4it has just few setting options *Actually easy to configure and use*.
 
-* **Menu** - You need to create at least one navigation menu before you can add it to Sticky Header. The menu in Sticky Header **shows  first  , second and all  level   items**.
-* **Logo** - You can upload your sticky header logo by clicking on "Upload new" > "Select a file". Ideally, this **logo should be 30px** tall or it will be resized. If a logo image is not uploaded, site title will be used.
-* **Background color** - You can choose your custom sticky header background color.
-* **Text color** - Choose your sticky header text color so it provides enough contrast with regards to the background color.
+* **Menu** - You have to create at least one navigation menu before you can add it to Sticky Header Dropdown Menu. The menu in Sticky Header shown all times **shows  First  , second and all  level   items**.
+* **Logo** - You can upload your sticky header logo by clicking on "Upload new" > "Select a file". Ideally, this **logo should be 40px** tall or it will be resized. If a logo image is not uploaded, site title will be used.
+* **Background color** - You can select your custom background color.
+* **Text color** - Choose your sticky header text color so it provides the text color.
 * **Sticky Header max width** - This option allows you to match interior Sticky Header width to your content area width. 
-* **Make visible when scrolled to** - This is the distance from the top of the page at which sticky header will show, in pixels. 
-* **Hide if screen is narrower than** - Sticky header will not be shown on screens narrower than this value, in pixels. When people use mobile devices, they're used to vertical scrolling so it's not necessary to have sticky headers.
-
+* **Make visible when scrolled to** - This is the distance from the top of the page window at which sticky header will show, in pixels. 
+* **Hide if screen is narrower ** - Sticky header will not be shown on screens narrower than this  given value, in pixels. When people use mobile devices, they're not necessary to have sticky headers.
+* ** Well-formatted Menu that is easy to show all times** - 
 == Installation ==
 
-1. Download the plugin from this page and extract it
-2. Copy the sticky-header folder to the "/wp-content/plugins/" directory 
+1. Download the plugin and extract the contents of the archive .
+2. Upload the 'sticky-dropdown' folder to the '/wp-content/plugins/' directory
 3. Activate the plugin through the "Plugins" menu in WordPress dashboard
-4. Setup your sticky header from Appearance > Customize
+4. Setup your sticky header dropdown menu from Appearance > Customize
 
+
+This plugin also expands your website page popularity by adding Sticky Dropdown Menu
 
 == Frequently Asked Questions ==
 
-= Where's the plugin's settings page =
-It's located in Appearance > Customize > Sticky Header by pixelsolution4it.
+Q: What is a sticky Menu?
+A: Typically In site  "always show on top" of your blog when scrolled bellow.
+   In some special cercumstances sticky is used to create the best section of the website.
+
+Q: Where's the plugin's settings page =
+A: It's setup in Appearance > Customize > Sticky Header by pixelsolution4it.
 
 == Screenshots ==
 
@@ -53,6 +62,8 @@ It's located in Appearance > Customize > Sticky Header by pixelsolution4it.
 3. Sticky Header Customizer Settings
 
 == Changelog ==
+=1.3.1= 
+* Added Animation css3 of sticky Dropdown menu and all Levels menu tabs shown.
 
 = 1.3 =
 * Fixes a PHP notice.
